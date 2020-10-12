@@ -55,6 +55,10 @@ $ yarn install
 
 # Run the app
 $ yarn start
+
+# Executar Fake API
+$ json-server server.json -p 3333 -d 500-w
+
 ```
 
 ## :memo: License
