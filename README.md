@@ -56,7 +56,7 @@ $ yarn install
 # Run the app
 $ yarn start
 
-# Executar Fake API
+# Run Fake API
 $ json-server server.json -p 3333 -d 500-w
 
 ```
