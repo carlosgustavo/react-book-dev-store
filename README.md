@@ -18,6 +18,8 @@
   <a href="#memo-license">License</a>
 </p>
 
+![devbooks-min](https://user-images.githubusercontent.com/53797220/95755312-a47b0080-0c7a-11eb-9b29-8639a93d5e3e.gif)
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
