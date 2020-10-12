@@ -37,7 +37,6 @@ This project was developed with the following technologies:
 -  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
 -  [json-server](https://github.com/typicode/json-server)
 -  [Reactotron](https://infinite.red/reactotron)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
