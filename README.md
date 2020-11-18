@@ -19,8 +19,6 @@
 </p>
 
 ![react-book-dev-store](https://user-images.githubusercontent.com/53797220/95759107-a98e7e80-0c7f-11eb-98ac-82f511d30364.gif)
-
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
 <p align="center">
   <a href="https://vigilant-heyrovsky-0688c4.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
