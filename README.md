@@ -20,7 +20,7 @@
 
 ![react-book-dev-store](https://user-images.githubusercontent.com/53797220/95759107-a98e7e80-0c7f-11eb-98ac-82f511d30364.gif)
 <p align="center">
-  <a href="https://reactbookdevstore.netlify.app/" target="_blank">
+  <a href="https://carlosgustavo-reactbookdevstore.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
