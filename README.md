@@ -51,7 +51,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/carlosgustavo/react-book-dev-store.git
+$ git clone https://github.com/carlosgustavo/react-devbooks
 
 # Go into the repository
 $ cd react-book-dev-store
